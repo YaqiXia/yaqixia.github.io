@@ -1,23 +1,23 @@
 ---
-title:          PCTMF-Net： Heart Sound Classification with Parallel CNNs-Transformer and Second-Order Spectral Analysis
+title:          Redundancy-Free High-Performance Dynamic GNN Training with Hierarchical Pipeline Parallelism
 date:           2023-08-01 00:01:00 +0800
 selected:       true
-pub:            "The Visual Computer"
-pub_last:       ' <span class="badge badge-pill badge-custom badge-dark">Journal</span>'
+pub:            "The 32nd International Symposium on High-Performance Parallel and Distributed Computing (ACM HPDC s2023)"
+pub_last:       ' <span class="badge badge-pill badge-custom badge-dark">Conference</span>'
 pub_date:       "2023"
 abstract: >-
-  We propose a Parallel CNNs-Transformer network with multi-scale feature context aggregation (PCTMF-Net) for electrocardiogram heart sound classification, which combines CNNs and a transformer encoder to extract hierarchical features and achieves state-of-the-art performance on publicly available datasets.
+  We propose a Sven.
 
-cover:          assets/images/covers/pctmf.png
+cover:          assets/images/covers/pub_hpdc23.png
 authors:
-  - Rongsheng Wang
-  - Yaofei Duan
-  - Yukun Li
-  - Dashun Zheng
-  - Xiaohong Liu
-  - ChanTong Lam
-  - Tao Tan†
+  - Yaqi Xia
+  # - Yaofei Duan
+  # - Yukun Li
+  # - Dashun Zheng
+  # - Xiaohong Liu
+  # - ChanTong Lam
+  - Dazhao Cheng†
 links:
-  Paper: https://link.springer.com/article/10.1007/s00371-023-03031-5
-  Cite: assets/bibtex/wang2023pctm.bib
+  Paper: https://www.researchgate.net/publication/372970891_Redundancy-Free_High-Performance_Dynamic_GNN_Training_with_Hierarchical_Pipeline_Parallelism
+  Cite: https://scholar.googleusercontent.com/scholar.bib?q=info:iAlQXgKqt_kJ:scholar.google.com/&output=citation&scisdr=ClHXww7fENKfuhjn6gU:AFWwaeYAAAAAZrXh8gWTCgTXYLbXUF43RFf8TP4&scisig=AFWwaeYAAAAAZrXh8r9WKk8jHsP4QwW0zXpcVHc&scisf=4&ct=citation&cd=-1&hl=en
 ---
