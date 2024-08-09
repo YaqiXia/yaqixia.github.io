@@ -1,5 +1,5 @@
 ---
-title:          ASFM-Net: Asymmetrical Siamese Feature Matching Network for Point Completion
+title:          ASFM-Net :Asymmetrical Siamese Feature Matching Network for Point Completion
 date:           2021-10-22 00:01:00 +0800
 selected:       false
 pub:            "Proceedings of the 29th ACM international conference on multimedia (ACM MM 2021)"
