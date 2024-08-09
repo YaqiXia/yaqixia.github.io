@@ -3,10 +3,10 @@ secondary_name: ""
 navbar_name: "Yaqi Xia's Home Page, 主页建造中......."
 
 positions:
-  - '<span class="no-break"><img src="assets/images/badges/whu_logo.png" alt="Macao Polytechnic University" class="inline-badge"/></span> PhD, School of Computer Science, Wuhan University'
+  - '<span class="no-break"><img src="assets/images/badges/whu_logo.png" alt="Wuhan University" class="inline-badge"/></span> PhD, School of Computer Science, Wuhan University'
 
 email: "yaqixia@whu.edu.com"
-gscholar: SSaBaioAAAAJ
+gscholar: Lpd8RCIAAAAJ
 # github: wangrongsheng
 # twitter: RongshengWang
 # wechat_qrcode: assets/images/etc/wechat.jpg
@@ -51,23 +51,15 @@ experience:
 
 
 awards:
-- name: First Prize of Baidu PaddlePaddle AGI Hackathon
-  date: 2024
-- name: Third Prize of Digital Medical Technology and Application Innovation Competition
+- name: Best Paper Candidate of ACM HPDC23
   date: 2023
-- name: Third Prize of Baichuan Intelligence and Amazon Cloud AGI Hackathon
-  date: 2023
-- name: Silver of Kaggle RSNA Screening Mammography Breast Cancer Detection
-  date: 2023
-- name: Winner of IEEE UV 2022 "Vision Meets Algae" Object Detection Challenge
-  date: 2022
-- name: <a href="https://www.paddlepaddle.org.cn/ppdemd?n=/ppdemd/%E7%8E%8B%E8%8D%A3%E8%83%9C">Baidu PaddlePaddle Developers Experts</a>
-  date: 2021
+- name: Second Prize of First 'Tianzhi Cup' Artificial Intelligence Challenge
+  date: 2019
 
-service:
-- name: Reviewer of <a href="https://www.embs.org/jbhi/">Journal of Biomedical and Health Informatics (JBHI)</a>
+# service:
+# - name: Reviewer of <a href="https://www.embs.org/jbhi/">Journal of Biomedical and Health Informatics (JBHI)</a>
 
 # Feel free to replace the footer text if you would like to, but I will greatly appreciate it 
 # if you keep the link to the template so that more people can benefit from it. Thanks!
 footer_text: >-
-  Copyright © 2024 <a href="https://github.com/WangRongsheng" target="_blank">Rongsheng Wang</a>. All Rights Reserved.
+  Copyright © 2024 <a href="https://github.com/YaqiXia" target="_blank">Yaqi Xia</a>. All Rights Reserved.
