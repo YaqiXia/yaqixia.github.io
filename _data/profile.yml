@@ -27,21 +27,21 @@ portrait_caption: >-
 
 education:
 - name: Wuhan University
-  logo: assets/images/badges/mpu_master.png
+  logo: assets/images/badges/whu_logo.png
   position: Ph.D. in Artificial Intelligence
   date: Sep. 2021 - 
 - name: Xidian University
-  logo: assets/images/badges/mpu_master.png
+  logo: assets/images/badges/xdu_logo.png
   position: M.S. in Electronics and Communication Engineering
   date: Sep. 2018 - Jul. 2021
 - name: Xidian University
-  logo: assets/images/badges/hpu_bs.png
+  logo: assets/images/badges/xdu_logo.png
   position: B.S. in Communication Engineering
   date: Sep. 2014 - Jul. 2018
   
 experience:
 - name: Research Center for Graph Computing, Zhejiang Lab
-  logo: assets/images/badges/qiyuan.png
+  logo: assets/images/badges/zjlab_logo.png
   position: Research Intern
   date: Aug. 2023 - Dec. 2023
 # - name: HKUST (GZ) 
