@@ -1,9 +1,9 @@
 primary_name: "Yaqi Xia (夏亚奇)"
 secondary_name: ""
-navbar_name: "Yaqi Xia's Home Page"
+navbar_name: "Yaqi Xia's Home Page, 主页建造中......."
 
 positions:
-  - '<span class="no-break"><img src="assets/images/badges/mpu_master.png" alt="Macao Polytechnic University" class="inline-badge"/></span> PhD, School of Computer Science, Wuhan University'
+  - '<span class="no-break"><img src="assets/images/badges/whu_logo.png" alt="Macao Polytechnic University" class="inline-badge"/></span> PhD, School of Computer Science, Wuhan University'
 
 email: "yaqixia@whu.edu.com"
 gscholar: SSaBaioAAAAJ
@@ -41,7 +41,7 @@ education:
   
 experience:
 - name: Research Center for Graph Computing, Zhejiang Lab
-  logo: assets/images/badges/zjlab_logo.png
+  logo: assets/images/badges/zjlab_logo.jpg
   position: Research Intern
   date: Aug. 2023 - Dec. 2023
 # - name: HKUST (GZ) 
