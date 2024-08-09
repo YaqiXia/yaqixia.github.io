@@ -2,7 +2,7 @@
 title:          ASFM-Net :Asymmetrical Siamese Feature Matching Network for Point Completion
 date:           2021-10-22 00:01:00 +0800
 selected:       false
-pub:            "Proceedings of the 29th ACM international conference on multimedia (ACM MM 2021)"
+pub:            "Proceedings of the 29th ACM international conference on multimedia (ACM MM)"
 pub_last:       ' <span class="badge badge-pill badge-custom badge-primary">Conference</span><span class="badge badge-pill badge-custom badge-danger">CCF-A</span>'
 pub_date:       "2021"
 abstract: >-
