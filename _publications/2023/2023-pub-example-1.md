@@ -2,7 +2,7 @@
 title:          Redundancy-Free High-Performance Dynamic GNN Training with Hierarchical Pipeline Parallelism
 date:           2023-08-01 00:01:00 +0800
 selected:       true
-pub:            "The 32nd International Symposium on High-Performance Parallel and Distributed Computing (ACM HPDC)"
+pub:            "The 32nd International Symposium on High-Performance Parallel and Distributed Computing (ACM HPDC, Best Paper Nomination)"
 pub_last:       ' <span class="badge badge-pill badge-custom badge-primary">Conference</span><span class="badge badge-pill badge-custom badge-warning">CCF-B</span>'
 pub_date:       "2023"
 abstract: >-
