@@ -1,7 +1,7 @@
 ---
 title:          Redundancy-free and load-balanced TGNN training with hierarchical pipeline parallelism
 date:           2024-07-08 00:01:00 +0800
-selected:       false
+selected:       True
 pub:            "IEEE Transactions on Parallel and Distributed (TPDS)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
