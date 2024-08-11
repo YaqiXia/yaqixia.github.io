@@ -11,7 +11,7 @@ pub_date:       "2024"
 abstract: >-
     This work introduces Sven, a co-designed algorithm-system library aimed at accelerating TGNN training on a multi-GPU platform.
   
-cover:          assets/images/covers/lcfm_lc.png
+cover:          assets/images/covers/pub_tpds23.png
 authors:
   - Yaqi Xia
   - Zheng Zhang
