@@ -1,27 +1,23 @@
 ---
-title:          XrayGLM： Summarizing Chest X-ray Reports Using a Large Medical Visual Language Model
-date:           2024-07-17 00:01:00 +0800
+title:          Scaling New Heights :Transformative Cross-GPU Sampling for Training Billion-Edge Graphs
+date:           2024-06-08 00:01:00 +0800
 selected:       true
-pub:            "RSNA’s Cutting-Edge Research"
+pub:            "The International Conference for High Performance Computing, Networking, Storage, and Analysis(SC)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-pub_last:       ' <span class="badge badge-pill badge-custom badge-secondary">Conference</span><span class="badge badge-pill badge-custom badge-success">Oral</span>'
+pub_last:       ' <span class="badge badge-pill badge-custom badge-primary">Conference</span><span class="badge badge-pill badge-custom badge-danger">CCF-A</span>'
 pub_date:       "2024"
 
 abstract: >-
-  We introduce XrayGLM, a conversational medical visual language model that analyzes and summarizes chest X-rays, aimed at improving domain-specific expertise for radiology tasks compared to general large models.
+   In this paper, we introduced HyDRA, a pioneering framework for sampling-based GNN training on large-scale graphs.
   
-cover:          assets/images/covers/xrayglm.png
+cover:          assets/images/covers/pub_sc24.png
 authors:
-  - Lin Li
-  - Rongsheng Wang
-  - Qimin Yang
-  - Jiexin Chen
-  - Patrick Cheong-Iao Pang
-  - Yapeng Wang
-  - Ka-Hou Chan
-  - Tao Tan
-  - Jie Ma†
+  - Yaqi Xia
+  - Donglin Yang
+  - Xiaobo Zhou
+  - Dazhao Cheng†
 links:
-  Code: https://github.com/WangRongsheng/XrayGLM
+  # Paper: https://ieeexplore.ieee.org/abstract/document/10494556
+  # Poster: assets/images/poster/icml2024-ws.jpeg
 ---

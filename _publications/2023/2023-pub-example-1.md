@@ -6,16 +6,15 @@ pub:            "The 32nd International Symposium on High-Performance Parallel a
 pub_last:       ' <span class="badge badge-pill badge-custom badge-primary">Conference</span><span class="badge badge-pill badge-custom badge-warning">CCF-B</span>'
 pub_date:       "2023"
 abstract: >-
-  We propose a Sven.
+  This paper presents Sven, an algorithm and system co-designed TGNN training library for the end-to-end performance optimization on multi-node multi-GPU systems.
 
 cover:          assets/images/covers/pub_hpdc23.png
 authors:
   - Yaqi Xia
-  # - Yaofei Duan
-  # - Yukun Li
-  # - Dashun Zheng
-  # - Xiaohong Liu
-  # - ChanTong Lam
+  - Zheng Zhang
+  - Hulin Wang
+  - Donglin Yang
+  - Xiaobo Zhou
   - Dazhao Cheng†
 links:
   Paper: https://www.researchgate.net/publication/372970891_Redundancy-Free_High-Performance_Dynamic_GNN_Training_with_Hierarchical_Pipeline_Parallelism

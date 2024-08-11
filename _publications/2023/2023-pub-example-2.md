@@ -1,19 +1,23 @@
 ---
-title:          Aux-ViT： Classification of Alzheimer's Disease from MRI based on Vision Transformer with Auxiliary Branch
-date:           2023-04-14 00:01:00 +0800
+title:          MPipeMoE :Memory Efficient MoE for Pre-trained Models with Adaptive Pipeline Parallelism
+date:           2023-05-01 00:01:00 +0800
 selected:       false
-pub:            "2023 5th International Conference on Communications, Information System and Computer Engineering (CISCE)"
-pub_last:       ' <span class="badge badge-pill badge-custom badge-secondary">Conference</span><span class="badge badge-pill badge-custom badge-warning">Poster</span>'
+pub:            "IEEE International Parallel and Distributed Processing Symposium (IPDPS)"
+pub_last:       ' <span class="badge badge-pill badge-custom badge-primary">Conference</span><span class="badge badge-pill badge-custom badge-warning">CCF-B</span>'
 pub_date:       "2023"
 abstract: >-
-  We propose an Aux-ViT model for Alzheimer's diagnosis using MRI that adds an auxiliary branch to the Vision Transformer backbone to preserve shallow features and reduce overfitting, achieving improved accuracy over the baseline ViT model through multi-scale data preprocessing and augmentation techniques.
+  In this paper, we present the design and implementation of MPipeMoE, a high-performance library that accelerates MoE training with adaptive and memory-efficient pipeline parallelism.
 
-cover:          assets/images/covers/cover2.jpg
+cover:          assets/images/covers/pub_hpdc23.png
 authors:
-  - Yaofei Duan†
-  - Rongsheng Wang
-  - Yukun Li
+  - Zheng Zhang
+  - Donglin Yang
+  - Yaqi Xia
+  - Liang Ding
+  - Dacheng Tao
+  - Xiaobo Zhou
+  - Dazhao Cheng†
 links:
-  Paper: https://ieeexplore.ieee.org/abstract/document/10142358/
-  Cite: assets/bibtex/duan2023vit.bib
+  Paper: https://ieeexplore.ieee.org/abstract/document/10177396
+  # Cite: https://scholar.googleusercontent.com/scholar.bib?q=info:iAlQXgKqt_kJ:scholar.google.com/&output=citation&scisdr=ClHXww7fENKfuhjn6gU:AFWwaeYAAAAAZrXh8gWTCgTXYLbXUF43RFf8TP4&scisig=AFWwaeYAAAAAZrXh8r9WKk8jHsP4QwW0zXpcVHc&scisf=4&ct=citation&cd=-1&hl=en
 ---
