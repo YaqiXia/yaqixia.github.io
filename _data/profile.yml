@@ -56,6 +56,9 @@ awards:
 - name: Second Prize of First 'Tianzhi Cup' Artificial Intelligence Challenge
   date: 2019
 
+news:
+-name: Our paper
+ date: June. 2024
 # service:
 # - name: Reviewer of <a href="https://www.embs.org/jbhi/">Journal of Biomedical and Health Informatics (JBHI)</a>
 
