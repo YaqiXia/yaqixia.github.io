@@ -8,6 +8,11 @@ num_selected: 10
 
 {% include widgets/experience_card.html %}
 
+{% assign count_news = site.news | size %}
+{% if count_news > 0 %}
+{% include widgets/news_card.html %}
+{% endif %}
+
 {% assign pubs = site.publications | sort: "date" | reverse | where: "selected", true %}
 {% 
     include widgets/publication_card.html 
@@ -15,7 +20,7 @@ num_selected: 10
     title='<i class="fas fa-star"></i> Selected Publications'
 %}
 
-<!-- <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=99b2b5&w=200&t=tt&d=w1jsZcYWX6uhqj7qrDV6Yu5EWXmHKKNJ4FzY6TnXcWs&co=f8f9fa&ct=b32b42'></script> -->
+<!-- <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=eUE3FsJqxigXGU53osERCuDNfTPjuHQtwZOI2QwYqvc&cl=ffffff&w=a"></script> -->
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=eUE3FsJqxigXGU53osERCuDNfTPjuHQtwZOI2QwYqvc"></script>
 
 <script>
