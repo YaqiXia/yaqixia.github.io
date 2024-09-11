@@ -11,7 +11,7 @@ pub_date:       "2024"
 abstract: >-
    In this paper, we present the design and implementation of MPMoE, a high-performance library that accelerates MoE training with adaptive and memory-efficient pipeline parallelism.
   
-cover:          assets/images/covers/lcfm_lc.png
+cover:          assets/images/covers/pub_tpds23_zz.png
 authors:
   - Zheng Zhang
   - Yaqi Xia

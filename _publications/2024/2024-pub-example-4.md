@@ -11,7 +11,7 @@ pub_date:       "2024"
 abstract: >-
     We present Raptor-T, a cutting-edge transformer framework designed for handling long and variable-length sequences. Raptor-T harnesses the power of the sparse transformer to reduce resource requirements for processing long sequences while also implementing system-level optimizations to accelerate inference performance. 
   
-cover:          assets/images/covers/lcfm_lc.png
+cover:          assets/images/covers/pub_tc24.png
 authors:
   - Hulin Wang
   - Donglin Yang
