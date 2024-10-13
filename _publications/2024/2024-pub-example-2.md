@@ -18,6 +18,6 @@ authors:
   - Xiaobo Zhou
   - Dazhao Cheng†
 links:
-  # Paper: https://ieeexplore.ieee.org/abstract/document/10494556
+  Paper: https://www.researchgate.net/publication/384810077_Scaling_New_Heights_Transformative_Cross-GPU_Sampling_for_Training_Billion-Edge_Graphs#fullTextFileContent
   # Poster: assets/images/poster/icml2024-ws.jpeg
 ---
