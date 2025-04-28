@@ -1,7 +1,7 @@
 ---
 title:          Raptor-T :A Fused and Memory-Efficient Sparse Transformer for Long and Variable-Length Sequences
 date:           2024-04-16 00:01:00 +0800
-selected:       false
+selected:       true
 pub:            "IEEE Transactions on Computers (TC)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
