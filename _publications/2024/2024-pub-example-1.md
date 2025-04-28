@@ -1,7 +1,7 @@
 ---
 title:          MPMoE :Memory Efficient MoE for Pre-Trained Models With Adaptive Pipeline Parallelism
 date:           2024-04-08 00:01:00 +0800
-selected:       false
+selected:       true
 pub:            "IEEE Transactions on Parallel and Distributed (TPDS)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'

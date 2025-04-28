@@ -1,7 +1,7 @@
 ---
 title:          Harnessing Inter-GPU Shared Memory for Seamless MoE Communication-Computation Fusion
 date:           2025-03-08 00:01:00 +0800
-selected:       false
+selected:       true
 pub:            "ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (PPoPP)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
