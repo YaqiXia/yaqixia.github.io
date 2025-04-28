@@ -15,7 +15,7 @@ authors:
   - Hulin Wang
   - Donglin Yang
   - Xiaobo Zhou
-  - Dazhao Cheng†
+  - Dazhao Cheng
 links:
   Paper: https://dl.acm.org/doi/10.1145/3588195.3592990
   Cite: https://scholar.googleusercontent.com/scholar.bib?q=info:iAlQXgKqt_kJ:scholar.google.com/&output=citation&scisdr=ClHXww7fENKfuhjn6gU:AFWwaeYAAAAAZrXh8gWTCgTXYLbXUF43RFf8TP4&scisig=AFWwaeYAAAAAZrXh8r9WKk8jHsP4QwW0zXpcVHc&scisf=4&ct=citation&cd=-1&hl=en

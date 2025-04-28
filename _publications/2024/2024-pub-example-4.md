@@ -20,7 +20,7 @@ authors:
   - Qigang Wang
   - Jianping Fan
   - Xiaobo Zhou
-  - Dazhao Cheng†
+  - Dazhao Cheng
 links:
   Paper: https://ieeexplore.ieee.org/abstract/document/10500743
   # Poster: assets/images/poster/icml2024-ws.jpeg

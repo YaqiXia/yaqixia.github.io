@@ -19,8 +19,8 @@ authors:
   - Chuang Hu
   - Xiaobo Zhou
   - Hongyang Chen
-  - Qianlong Sang†
-  - Dazhao Cheng†
+  - Qianlong Sang
+  - Dazhao Cheng
 links:
   Paper: https://ieeexplore.ieee.org/abstract/document/10608434
   Cite: https://scholar.googleusercontent.com/scholar.bib?q=info:aigUQJEumjEJ:scholar.google.com/&output=citation&scisdr=ClHJaYkFEO6rtriPZco:AFWwaeYAAAAAZwuJfcq_R9oYwMHbnXoBNmYbc-w&scisig=AFWwaeYAAAAAZwuJfbAA3Zl-orx0f4B5OgnWSBI&scisf=4&ct=citation&cd=-1&hl=en

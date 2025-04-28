@@ -13,11 +13,11 @@ abstract: >-
   
 cover:          assets/images/covers/pub_atc25.png
 authors:
-  - Yaqi Xia
-  - Weihu Wang
+  - Yaqi Xia†
+  - Weihu Wang†
   - Donglin Yang
   - Xiaobo Zhou
-  - Dazhao Cheng†
+  - Dazhao Cheng
 # links:
   # Paper: https://ieeexplore.ieee.org/abstract/document/10494556
   # Poster: assets/images/poster/icml2024-ws.jpeg

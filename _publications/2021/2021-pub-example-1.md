@@ -10,10 +10,10 @@ abstract: >-
   
 cover:          assets/images/covers/pub_mm21.png
 authors:
-  - Yaqi Xia*
-  - Yan Xia*
+  - Yaqi Xia†
+  - Yan Xia†
   - Wei Li
-  - Rui Song†
+  - Rui Song
   - Kailang Cao
   - Uwe Stilla
 links:
