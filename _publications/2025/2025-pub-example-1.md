@@ -18,7 +18,8 @@ authors:
   - Donglin Yang
   - Xiaobo Zhou
   - Dazhao Cheng
-# links:
-  # Paper: https://ieeexplore.ieee.org/abstract/document/10494556
+links:
+  Paper: https://dl.acm.org/doi/pdf/10.1145/3710848.3710868
+  Code: https://github.com/WongHuLin/CCFuser
   # Poster: assets/images/poster/icml2024-ws.jpeg
 ---

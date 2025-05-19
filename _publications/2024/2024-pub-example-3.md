@@ -19,6 +19,7 @@ authors:
   - Xiaobo Zhou
   - Dazhao Cheng
 links:
-  # Paper: https://ieeexplore.ieee.org/abstract/document/10494556
+  Paper: https://dl.acm.org/doi/pdf/10.1109/SC41406.2024.00055
+  Code: https://github.com/yatorho/SC24_ADE
   # Poster: assets/images/poster/icml2024-ws.jpeg
 ---
