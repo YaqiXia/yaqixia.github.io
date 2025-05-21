@@ -1,5 +1,5 @@
 ---
-title:          Revitalizing Sparse Matrix-Matrix Multiplication on Tensor Cores with Asynchronous and Balanced Kernel Optimization
+title:          Voltrix-SpMM: Sparse Matrix-Matrix Multiplication on Tensor Cores with Asynchronous and Balanced Kernel Optimization
 date:           2025-04-27 00:01:00 +0800
 selected:       true
 pub:            "2025 USENIX Annual Technical Conference (ATC)"
@@ -11,7 +11,7 @@ pub_date:       "2025"
 abstract: >-
    We introduce Voltrix-SpMM, a revolutionary GPU kernel design for sparse matrix-matrix multiplication.
   
-cover:          assets/images/covers/pub_atc25.png
+cover:          assets/images/covers/Voltrix_logo.jpeg
 authors:
   - Yaqi Xia†
   - Weihu Wang†
