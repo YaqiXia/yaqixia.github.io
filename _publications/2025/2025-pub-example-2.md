@@ -1,5 +1,5 @@
 ---
-title:          Voltrix-SpMM: Sparse Matrix-Matrix Multiplication on Tensor Cores with Asynchronous and Balanced Kernel Optimization
+title:          Voltrix:Sparse Matrix-Matrix Multiplication on Tensor Cores with Asynchronous and Balanced Kernel Optimization
 date:           2025-04-27 00:01:00 +0800
 selected:       true
 pub:            "2025 USENIX Annual Technical Conference (ATC)"
