@@ -11,7 +11,7 @@ pub_date:       "2025"
 abstract: >-
    We present MXBLAS, a high-performance MX-GEMM library that unifies support across the full spectrum of MX-format variations.
   
-cover:          assets/images/covers/MXBLAS_logo.jpeg
+cover:          assets/images/covers/MXBLAS_logo.png
 authors:
   - Weihu Wang†
   - Yaqi Xia†
