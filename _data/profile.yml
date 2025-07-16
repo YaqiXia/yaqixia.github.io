@@ -53,16 +53,16 @@ experience:
 
 
 awards:
+- name: First Prize of the 'DiDi' Outstanding PhD Student Academic Forum
+  date: 2025
 - name: Best Paper Runner-up of ACM HPDC23
   date: 2023
 - name: Second Prize of First 'Tianzhi Cup' Artificial Intelligence Challenge
   date: 2019
 
-# service:
-# - name: Reviewer of <a href="https://www.embs.org/jbhi/">Journal of Biomedical and Health Informatics (JBHI)</a>
+service:
+- name: Presentation at the CCF Computility 2025 Forum for Excellent PhD Students and Young Scholars
 
-news:
-- name: I am looking for highly self-motivated Bachelor, Master and PhD students. Feel free to get in touch with me via email If you're interested in collaborating.
 
 # Feel free to replace the footer text if you would like to, but I will greatly appreciate it 
 # if you keep the link to the template so that more people can benefit from it. Thanks!
