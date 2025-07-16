@@ -19,6 +19,6 @@ authors:
   - Xiaobo Zhou
   - Dazhao Cheng
 links:
-  Paper: https://www.researchgate.net/publication/393743494_Voltrix_Sparse_Matrix-Matrix_Multiplication_on_Tensor_Cores_with_Asynchronous_and_Balanced_Kernel_Optimization
+  Paper: https://www.researchgate.net/publication/393743646_Voltrix_Sparse_Matrix-Matrix_Multiplication_on_Tensor_Cores_with_Asynchronous_and_Balanced_Kernel_Optimization_Voltrix_Sparse_Matrix-Matrix_Multiplication_on_Tensor_Cores_with_Asynchronous_and_Balance
   Code: https://github.com/YaqiXia/Voltrix-SpMM/tree/main
 ---
