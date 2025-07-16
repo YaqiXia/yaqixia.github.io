@@ -18,7 +18,7 @@ authors:
   - Donglin Yang
   - Xiaobo Zhou
   - Dazhao Cheng
-# links:
-  # Paper: https://ieeexplore.ieee.org/abstract/document/10494556
-  # Poster: assets/images/poster/icml2024-ws.jpeg
+links:
+  Paper: https://www.researchgate.net/publication/393743494_Voltrix_Sparse_Matrix-Matrix_Multiplication_on_Tensor_Cores_with_Asynchronous_and_Balanced_Kernel_Optimization
+  Code: https://github.com/YaqiXia/Voltrix-SpMM/tree/main
 ---
