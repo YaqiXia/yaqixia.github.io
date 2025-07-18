@@ -60,8 +60,8 @@ awards:
 - name: Second Prize of First 'Tianzhi Cup' Artificial Intelligence Challenge
   date: 2019
 
-service:
-- name: Presentation at the CCF Computility 2025 Forum for Excellent PhD Students and Young Scholars
+# service:
+# - name: Presentation at the CCF Computility 2025 Forum for Excellent PhD Students and Young Scholars
 
 
 # Feel free to replace the footer text if you would like to, but I will greatly appreciate it 
