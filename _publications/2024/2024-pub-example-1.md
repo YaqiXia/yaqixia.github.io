@@ -5,7 +5,7 @@ selected:       true
 pub:            "IEEE Transactions on Parallel and Distributed (TPDS)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-pub_last:       ' <span class="badge badge-pill badge-custom badge-secondary">Journal</span><span class="badge badge-pill badge-custom badge-danger">CCF-A</span><span class="badge badge-pill badge-custom badge-success">Best Paper Nomination</span>'
+pub_last:       ' <span class="badge badge-pill badge-custom badge-secondary">Journal</span><span class="badge badge-pill badge-custom badge-danger">CCF-A</span><span class="badge badge-pill badge-custom badge-success">Best Paper Runner-up</span>'
 pub_date:       "2024"
 
 abstract: >-
