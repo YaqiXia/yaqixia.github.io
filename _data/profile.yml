@@ -57,8 +57,8 @@ awards:
   date: 2019
 
 service:
-- name: Associate Editor,The Journal of Supercomputing, Springer Nature
-- name: Reviewer, IEEE Transactions on Parallel and Distributed Systems, IEEE
+- name: Associate Editor,The Journal of Supercomputing
+- name: Reviewer, IEEE TPDS
 
 
 experience:
