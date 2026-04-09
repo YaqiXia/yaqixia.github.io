@@ -56,9 +56,9 @@ awards:
 - name: Second Prize of First 'Tianzhi Cup' Artificial Intelligence Challenge
   date: 2019
 
-service:
-- name: Associate Editor,The Journal of Supercomputing
-- name: Reviewer, IEEE TPDS
+# service:
+# - name: Associate Editor,The Journal of Supercomputing
+# - name: Reviewer, IEEE TPDS
 
 
 # experience:
@@ -66,6 +66,7 @@ service:
 #   logo: assets/images/badges/zjlab_logo.jpg
 #   position: Research Intern
 #   date: Aug. 2023 - Dec. 2023
+
 # - name: HKUST (GZ) 
 #   logo: assets/images/badges/hkust-gz.png
 #   position: Research Assistant (Supervisor is <a href="https://web.archive.org/web/20240717103203/https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/BAI-Yun/yunbai">Yun Bai</a> and <a href="https://cee.rutgers.edu/xiang-liu">Xiang Liu</a>)
