@@ -11,7 +11,7 @@ pub_date:       "2026"
 abstract: >-
    We present JanusQuant, a 2-bit KV cache quantization system that achieves both high accuracy and end-to-end efficiency through algorithm–system co-design for long-context generation tasks.
   
-cover:          assets/images/covers/pub_ppopp26.png
+cover:          assets/images/covers/pub_ppopp26.jpg
 authors:
   - Chengyu Sun
   - Yaqi Xia
