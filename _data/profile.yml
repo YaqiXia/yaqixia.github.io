@@ -18,7 +18,7 @@ github: YaqiXia
 orcid: 0009-0006-8101-785X
 
 short_bio: >-
-  I am Yaqi Xia, currently a Postdoctoral Researcher at Wuhan University, working with Prof. <a href="http://icslab.whu.edu.cn/">Dazhao Cheng</a>. I received my Ph.D. in Computer Science from Wuhan University. My research interests focus on distributed and high-performance systems for AI/ML. Prior to that, I obtained both my Bachelor's and Master's degrees from Xidian University under the supervision of Prof. <a href="https://web.xidian.edu.cn/songrui/index.html">Rui Song</a>. 
+  I am Yaqi Xia, currently a HongYi Postdoc Research Fellow at Wuhan University, working with Prof. <a href="http://icslab.whu.edu.cn/">Dazhao Cheng</a>. I received my Ph.D. in Computer Science from Wuhan University. My research interests focus on distributed and high-performance systems for AI/ML. Prior to that, I obtained both my Bachelor's and Master's degrees from Xidian University under the supervision of Prof. <a href="https://web.xidian.edu.cn/songrui/index.html">Rui Song</a>. 
 
 show_news: true
 
@@ -56,16 +56,16 @@ awards:
 - name: Second Prize of First 'Tianzhi Cup' Artificial Intelligence Challenge
   date: 2019
 
-# service:
-# - name: Associate Editor,The Journal of Supercomputing
-# - name: Reviewer, IEEE TPDS
+service:
+- name: Associate Editor,The Journal of Supercomputing
+- name: Reviewer, IEEE TPDS
 
 
-# experience:
-# - name: Research Center for Graph Computing, Zhejiang Lab
-#   logo: assets/images/badges/zjlab_logo.jpg
-#   position: Research Intern
-#   date: Aug. 2023 - Dec. 2023
+experience:
+- name: Research Center for Graph Computing, Zhejiang Lab
+  logo: assets/images/badges/zjlab_logo.jpg
+  position: Research Intern
+  date: Aug. 2023 - Dec. 2023
 
 # - name: HKUST (GZ) 
 #   logo: assets/images/badges/hkust-gz.png
