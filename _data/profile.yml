@@ -5,7 +5,7 @@ navbar_name: "Yaqi Xia's Home Page"
 positions:
   - '<span class="no-break"><img src="assets/images/badges/whu_logo.png" alt="Wuhan University" class="inline-badge"/></span> PhD, School of Computer Science, Wuhan University'
 
-email: "yaqixia@whu.edu.com"
+email: "yaqixia@whu.edu.cn"
 gscholar: Lpd8RCIAAAAJ
 github: YaqiXia
 # twitter: RongshengWang
@@ -31,7 +31,7 @@ education:
 - name: Wuhan University
   logo: assets/images/badges/whu_logo.png
   position: Ph.D. in Artificial Intelligence
-  date: Sep. 2021 - 
+  date: Sep. 2021 - Dec. 2025
 - name: Xidian University
   logo: assets/images/badges/xdu_logo.png
   position: M.S. in Electronics and Communication Engineering
@@ -45,14 +45,16 @@ education:
 
 
 awards:
-- name: First Prize of the 'DiDi' Outstanding PhD Student Academic Forum
-  date: 2025
-- name: The Best Presentation Award at the Graduate Future Innovation Academic Forum-Doctoral Forum, Wuhan University
-  date: 2025
+- name: "<strong>Best Paper Award Nomination</strong>, SC 26"
+  date: 2026
 - name: "<strong>Best Paper Runner-up</strong>, IEEE TPDS24"
   date: 2024  
 - name: "<strong>Best Paper Award Nomination</strong>, ACM HPDC23"
   date: 2023
+- name: First Prize of the 'DiDi' Outstanding PhD Student Academic Forum
+  date: 2025
+- name: The Best Presentation Award at the Graduate Future Innovation Academic Forum-Doctoral Forum, Wuhan University
+  date: 2025
 - name: Second Prize of First 'Tianzhi Cup' Artificial Intelligence Challenge
   date: 2019
 
