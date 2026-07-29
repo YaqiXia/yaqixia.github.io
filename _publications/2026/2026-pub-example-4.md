@@ -5,7 +5,7 @@ selected:       false
 pub:            "ACM Transactions on Autonomous and Adaptive Systems (TAAS)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-pub_last:       ' <span class="badge badge-pill badge-custom badge-secondary">Journal</span>'
+pub_last:       ' <span class="badge badge-pill badge-custom badge-secondary">Journal</span><span class="badge badge-pill badge-custom badge-warning">CCF-B</span>'
 pub_date:       "2026"
 
 abstract: >-
