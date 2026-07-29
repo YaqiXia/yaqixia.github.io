@@ -13,11 +13,11 @@ abstract: >-
   
 cover:          assets/images/covers/MXBLAS_logo.png
 authors:
-  - Weihu Wang†
-  - Yaqi Xia†
+  - Weihu Wang*
+  - Yaqi Xia*
   - Donglin Yang
   - Xiaobo Zhou
-  - Dazhao Cheng
+  - Dazhao Cheng†
 links:
   Code: https://github.com/yatorho/MXBLAS/tree/master
 ---

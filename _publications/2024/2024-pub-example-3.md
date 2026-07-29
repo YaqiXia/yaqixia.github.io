@@ -1,7 +1,7 @@
 ---
 title:          Accelerating Distributed DLRM Training with Optimized TT Decomposition and Micro-Batching
 date:           2024-06-08 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "The International Conference for High Performance Computing, Networking, Storage, and Analysis (SC)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
@@ -17,7 +17,7 @@ authors:
   - Yaqi Xia
   - Donglin Yang
   - Xiaobo Zhou
-  - Dazhao Cheng
+  - Dazhao Cheng†
 links:
   Paper: https://dl.acm.org/doi/pdf/10.1109/SC41406.2024.00055
   Code: https://github.com/yatorho/SC24_ADE

@@ -1,15 +1,21 @@
 {%- assign authors = include.authors -%}
 {%- assign has_eq_contrib = false -%}
+{%- assign has_corr_author = false -%}
 {%- assign i = 0 -%}
 {%- for _key in authors -%}
-    {%- assign last_char = _key | slice: -1, 1%}
-    {%- if last_char == "†" -%}
-        {%- assign key = _key | split: "†" | first -%}
-        {%- assign mark = "†" -%}
+    {%- assign key = _key -%}
+    {%- assign mark = "" -%}
+
+    {%- if key contains "*" -%}
+        {%- assign key = key | remove: "*" -%}
+        {%- assign mark = mark | append: "*" -%}
         {%- assign has_eq_contrib = true -%}
-    {%- else -%}
-        {%- assign key = _key -%}
-        {%- assign mark = "" -%}
+    {%- endif -%}
+
+    {%- if key contains "†" -%}
+        {%- assign key = key | remove: "†" -%}
+        {%- assign mark = mark | append: "†" -%}
+        {%- assign has_corr_author = true -%}
     {%- endif -%}
 
     {%- assign info = site.data.authors[key] -%}
@@ -36,6 +42,10 @@
 
 {%- endfor -%}
 
-{%- if has_eq_contrib == true -%}
-<mark>(† <i> equal contribution</i>)</mark>
+{%- if has_eq_contrib == true and has_corr_author == true -%}
+<mark>(* <i> equal contribution</i>; † <i> corresponding author</i>)</mark>
+{%- elsif has_eq_contrib == true -%}
+<mark>(* <i> equal contribution</i>)</mark>
+{%- elsif has_corr_author == true -%}
+<mark>(† <i> corresponding author</i>)</mark>
 {%- endif -%}

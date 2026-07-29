@@ -13,11 +13,11 @@ abstract: >-
   
 cover:          assets/images/covers/Voltrix_logo.jpeg
 authors:
-  - Yaqi Xia†
-  - Weihu Wang†
+  - Yaqi Xia*
+  - Weihu Wang*
   - Donglin Yang
-  - Xiaobo Zhou
-  - Dazhao Cheng
+  - Xiaobo Zhou†
+  - Dazhao Cheng†
 links:
   Paper: https://www.researchgate.net/publication/393743646_Voltrix_Sparse_Matrix-Matrix_Multiplication_on_Tensor_Cores_with_Asynchronous_and_Balanced_Kernel_Optimization_Voltrix_Sparse_Matrix-Matrix_Multiplication_on_Tensor_Cores_with_Asynchronous_and_Balance
   Code: https://github.com/YaqiXia/Voltrix-SpMM/tree/main

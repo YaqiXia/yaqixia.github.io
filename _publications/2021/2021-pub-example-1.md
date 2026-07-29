@@ -10,12 +10,12 @@ abstract: >-
   
 cover:          assets/images/covers/pub_mm21.png
 authors:
-  - Yaqi Xia†
-  - Yan Xia†
+  - Yaqi Xia*
+  - Yan Xia*
   - Wei Li
   - Rui Song
   - Kailang Cao
-  - Uwe Stilla
+  - Uwe Stilla†
 links:
   Paper: https://arxiv.org/pdf/2104.09587
   # Competition: https://tianchi.aliyun.com/competition/entrance/532036?spm=a2c22.12281965.0.0.4c885d9be7TB5u

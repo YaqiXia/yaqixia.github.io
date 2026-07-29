@@ -1,7 +1,7 @@
 ---
 title:          JanusQuant:Accurate and Efficient 2-bit KV Cache Quantization for Long-context Inference
 date:           2026-01-28 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (PPoPP)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
@@ -18,7 +18,7 @@ authors:
   - Hulin Wang
   - Donglin Yang
   - Xiaobo Zhou
-  - Dazhao Cheng
+  - Dazhao Cheng†
 links:
   Paper: https://dl.acm.org/doi/10.1145/3774934.3786428
   # Code: https://github.com/WongHuLin/CCFuser

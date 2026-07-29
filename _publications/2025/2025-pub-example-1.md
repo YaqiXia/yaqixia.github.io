@@ -1,7 +1,7 @@
 ---
 title:          Harnessing Inter-GPU Shared Memory for Seamless MoE Communication-Computation Fusion
 date:           2025-03-08 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (PPoPP)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
@@ -17,7 +17,7 @@ authors:
   - Yaqi Xia
   - Donglin Yang
   - Xiaobo Zhou
-  - Dazhao Cheng
+  - Dazhao Cheng†
 links:
   Paper: https://dl.acm.org/doi/pdf/10.1145/3710848.3710868
   Code: https://github.com/WongHuLin/CCFuser
