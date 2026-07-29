@@ -3,7 +3,7 @@ secondary_name: ""
 navbar_name: "Yaqi Xia's Home Page"
 
 positions:
-  - '<span class="no-break"><img src="assets/images/badges/whu_logo.png" alt="Wuhan University" class="inline-badge"/></span> PhD, School of Computer Science, Wuhan University'
+  - '<span class="no-break"><img src="assets/images/badges/whu_logo.png" alt="Wuhan University" class="inline-badge"/></span> HongYi Postdoc Research Fellow, School of Computer Science, Wuhan University'
 
 email: "yaqixia@whu.edu.cn"
 gscholar: Lpd8RCIAAAAJ
@@ -18,7 +18,7 @@ github: YaqiXia
 orcid: 0009-0006-8101-785X
 
 short_bio: >-
-  I am Yaqi Xia, currently a HongYi Postdoc Research Fellow at Wuhan University, working with Prof. <a href="http://icslab.whu.edu.cn/">Dazhao Cheng</a>. I received my Ph.D. in Computer Science from Wuhan University. My research interests focus on distributed and high-performance systems for AI/ML. Prior to that, I obtained both my Bachelor's and Master's degrees from Xidian University under the supervision of Prof. <a href="https://web.xidian.edu.cn/songrui/index.html">Rui Song</a>. 
+  I am Yaqi Xia, a HongYi Postdoc Research Fellow at Wuhan University, working with Prof. <a href="http://icslab.whu.edu.cn/">Dazhao Cheng</a>. My research focuses on distributed and high-performance systems for AI/ML, with an emphasis on efficient long-context LLM inference, scalable graph learning systems, and ML systems optimization. My work has appeared in top systems venues and journals including SC, PPoPP, ATC, IEEE TPDS, and HPDC, with Best Paper Runner-up and Best Paper Award Nomination honors. I received my Ph.D. from Wuhan University in 2025. Prior to that, I obtained both my Bachelor's and Master's degrees from Xidian University under the supervision of Prof. <a href="https://web.xidian.edu.cn/songrui/index.html">Rui Song</a>.
 
 show_news: true
 
